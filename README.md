@@ -1,9 +1,9 @@
 # SKN DEVELOPPEMENT
-_(Blanchiment d'argent by Skyneur#0001)_
+_(Garage et Fourrière by Skyneur#0001)_
 
 [![forthebadge](https://www.freepnglogos.com/uploads/discord-logo-png/discord-emoji-recurring-discord-perks-gaming-17.png)](https://discord.gg/CAC8YhakRv)
 
-Un simple point de blanchiment avec un menu simple et efficace (0.00ms de consomation)
+Un simple garage avec un menu simple et efficace (0.01ms de consomation)
 
 ## Pour commencer
 
