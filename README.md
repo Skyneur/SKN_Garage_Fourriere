@@ -24,7 +24,7 @@ https://discord.gg/CAC8YhakRv
 
 ## Démarrage
 
-ensure SKN_Blanchiment
+ensure SKN_Garage_Fourriere
 
 ## Fabriqué avec
 
